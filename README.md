@@ -17,7 +17,6 @@ Add different styling to the atm buttons and clearing out the transaction amount
 
 
 #### MIT License
-MIT License
 
 Copyright (c) 2020 John Williams
 
