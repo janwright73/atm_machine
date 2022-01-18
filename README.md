@@ -1,5 +1,5 @@
 # atm_machine
-This project simulates atm transactions for deposit and widthdrawl actions at an atm machine.  The Account balance represents your bank account total.  If the user tries to get more cash back than available, an alert will be thrown and the transaction amount is set to zero.
+This project simulates atm transactions for deposit and widthdrawl actions at an atm machine.  The Account balance represents your bank account total.  If the user tries to get more cash back than available, the 'Submit' button is disabled.
 
 This project demonstrates the following concepts: 
 - use of React state
